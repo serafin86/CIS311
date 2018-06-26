@@ -1,0 +1,11 @@
+  * {margin: 0;}
+  table {text-align: center; vertical-align: middle;
+  width: 900; border-width: 2pt; border-color: black; border-style: solid;
+  margin: auto; border-spacing: 10pt;}
+  td {height: 400;}
+  .alt1 {background-color: lightgreen;}
+  .alt2 {background-color: lightblue;}
+  .altHome2 {width: 900px; height: 1000px; background-color: lightblue;}
+  .altHome1 {width: 900px; height: 1000px; background-color: lightgreen;}
+  h2 {text-align: center; margin: auto;}
+  p {text-align: center;}
