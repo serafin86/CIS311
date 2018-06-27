@@ -1,18 +1,56 @@
-  * {margin: 0;}
-  table {text-align: center; vertical-align: middle;
-  width: 900; border-width: 2pt; border-color: black; border-style: solid;
-  margin: auto; border-spacing: 10pt;}
-  td {height: 400;}
-  .altHome2 {width: 900px; height: 1000px; background-color: lightblue;}
-  .altHome1 {width: 900px; height: 1000px; background-color: lightgreen;}
-  h2 {text-align: center; margin: auto;}
-  p {text-align: center;}
-  div {margin: auto; text-align: center;}
-  img {padding: 25px;}
+body {
+  margin: 0;
+}
+
+  .header {
+    padding: 20px;
+    margin-left: auto;
+    text-align: center;
+    text-emphasis: bold;
+    font-size: 30pt;
+  }
+
+  .navbar {
+    text-align: center;
+    margin: auto;
+    padding: 10 px;
+  }
+
+  .promo {
+    text-align: center;
+    margin: auto;
+    padding: 5pt;
+  }
+
+  .prodtl {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .prodimg {
+    padding: 30px;
+    max-width: auto;
+    max-height: 300px;
+  }
+
+  .prodrow{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    position: relative;
+  }
+
+  .navtop {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+  }
 
   .container {
+    margin: auto;
     position: relative;
-    width: 50%;
+    width: 75%;
   }
 
   .image {
